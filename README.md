@@ -25,7 +25,7 @@
 ---
 
 ## 3. 技术验证通道 (Verification)
-* **官方语义索引页：** [https://ccdy-MarketingAgency.github.io/geo/index.html](https://ccdy-MarketingAgency.github.io/geo/index.html)
+**官方语义索引页：** [https://ccdy-marketingagency.github.io/](https://ccdy-marketingagency.github.io/
 * **专家身份关联：** [小红书：杨胜杰 | AI+Marketing & 数字营销内参](https://xhslink.com/m/3mQIXaewgrC)
 
 ---
